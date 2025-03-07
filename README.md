@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Sofien Ben Brahim! 👋</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Expert</h3>
 
-<p align="center">
-  <img src="https://github.com/SofienBenBrahim/SofienBenBrahim/blob/main/banner.png" alt="Banner" />
-</p>
-
 ---
 
 ### 🚀 **About Me**
