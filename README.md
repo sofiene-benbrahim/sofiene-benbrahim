@@ -7,7 +7,9 @@
 🔹 Passionate DevOps Engineer with expertise in cloud platforms, automation, and CI/CD.  
 🔹 Skilled in AWS, GCP, Azure, and OVH, leveraging cloud-native technologies for scalable solutions.  
 🔹 Experienced in containerization & orchestration using Docker & Kubernetes.  
+🔹 Monitoring & Observability with Grafana, Prometheus, and Zabbix.  
 🔹 Automation-driven using Ansible, GitHub Actions, and GitLab CI/CD.  
+🔹 Strong background in test automation using Selenium with Java.  
 🔹 Proficient in Java, Python, and Bash scripting for workflow automation.  
 
 ---
@@ -23,6 +25,10 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab_CI/CD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-%23CC0000.svg?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -39,9 +45,7 @@
 ---
 
 ### 📫 **Let's Connect!**
-📌 [LinkedIn](https://www.linkedin.com/in/sofiene-ben-brahim-316a73196/)     
-
+📌 [LinkedIn](https://www.linkedin.com/in/sofiene-ben-brahim-316a73196/) 
 ---
 
 🌟 _"Automating today for a better tomorrow."_  
-
